@@ -10,22 +10,20 @@ This repository contains my coursework labs for the **Deep Learning** course. Ea
 - **Lab 2: Linear Regression**  
   Building and training a linear regression model with gradient descent. Visualizing the effect of learning rate and convergence.  
 
-- **Lab 3: Recurrent Neural Networks (RNNs)**  
-  Sequential data modeling with simple RNNs. Applications discussed include text data and sequence predictions.  
-
-- **Lab 4: Long Short-Term Memory (LSTM)**  
+- **Lab 3: Recurrent Neural Networks (RNNs) & Long Short-Term Memory (LSTM)**  
+  Sequential data modeling with simple RNNs. Applications discussed include text data and sequence predictions.
   Implementing LSTMs to address vanishing gradient problems in traditional RNNs. Hands-on experiments with sequence learning tasks.  
 
-- **Lab 5: Convolutional Neural Networks (CNNs)**  
+- **Lab 4: Convolutional Neural Networks (CNNs)**  
   Image classification using convolutional architectures. Includes layers such as convolution, pooling, and fully connected layers.  
 
-- **Lab 6: Transfer Learning**  
+- **Lab 5: Transfer Learning**  
   Applying pre-trained models (e.g., ResNet, VGG) on new datasets. Fine-tuning vs feature extraction.  
 
-- **Lab 7: Machine Translation**  
+- **Lab 6: Machine Translation**  
   Sequence-to-sequence models for translating text between languages using encoder-decoder architectures.  
 
-- **Lab 8: Generative Adversarial Networks (GANs)**  
+- **Lab 7: Generative Adversarial Networks (GANs)**  
   Implementing GANs to generate synthetic data. Training dynamics between generator and discriminator explored.  
 
 ## Tech Stack
